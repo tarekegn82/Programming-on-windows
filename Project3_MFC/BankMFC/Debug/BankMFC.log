@@ -1,0 +1,17 @@
+﻿  Bank.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+D:\Fall2022\1st semester\5. windows system programming\Project123 Report and Source codes\Project123 Report and Source codes\Project3_MFC\BankMFC\resource.h(8,1): warning C4005: 'IDOK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11117): message : see previous definition of 'IDOK'
+D:\Fall2022\1st semester\5. windows system programming\Project123 Report and Source codes\Project123 Report and Source codes\Project3_MFC\BankMFC\resource.h(9,1): warning C4005: 'IDCANCEL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11118): message : see previous definition of 'IDCANCEL'
+D:\Fall2022\1st semester\5. windows system programming\Project123 Report and Source codes\Project123 Report and Source codes\Project3_MFC\BankMFC\Bank.cpp(269,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Fall2022\1st semester\5. windows system programming\Project123 Report and Source codes\Project123 Report and Source codes\Project3_MFC\BankMFC\Bank.cpp(279,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Fall2022\1st semester\5. windows system programming\Project123 Report and Source codes\Project123 Report and Source codes\Project3_MFC\BankMFC\Bank.cpp(289,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Fall2022\1st semester\5. windows system programming\Project123 Report and Source codes\Project123 Report and Source codes\Project3_MFC\BankMFC\Bank.cpp(299,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Fall2022\1st semester\5. windows system programming\Project123 Report and Source codes\Project123 Report and Source codes\Project3_MFC\BankMFC\Bank.cpp(431,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Fall2022\1st semester\5. windows system programming\Project123 Report and Source codes\Project123 Report and Source codes\Project3_MFC\BankMFC\Bank.cpp(476,11): warning C4101: 'dwWaitResult': unreferenced local variable
+D:\Fall2022\1st semester\5. windows system programming\Project123 Report and Source codes\Project123 Report and Source codes\Project3_MFC\BankMFC\Bank.cpp(598,9): warning C4101: 'point': unreferenced local variable
+D:\Fall2022\1st semester\5. windows system programming\Project123 Report and Source codes\Project123 Report and Source codes\Project3_MFC\BankMFC\Bank.cpp(597,11): warning C4101: 'pt': unreferenced local variable
+  LoginDlg.cpp
+c1xx : fatal error C1083: Cannot open source file: 'D:\Fall2022\1st semester\5. windows system programming\2018080701016\Project123\Project_3_MFC\BankMFC\LoginDlg.cpp': No such file or directory
+  Generating Code...
