@@ -1,0 +1,3 @@
+C:\Users\hp\source\repos\BankTransactionMS\Debug\BankTransactionMS.exe
+D:\Fall2022\1st semester\5. windows system programming\2018080701016\Windowa Process and Threads_Alambo Tarekegn\BankTransactionMS\Debug\BankTransactionMS.exe
+D:\Fall2022\1st semester\5. windows system programming\2018080701016\Windowa Process and Threads_Alambo Tarekegn_Kelta\BankTransactionMS\Debug\BankTransactionMS.exe
