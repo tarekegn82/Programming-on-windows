@@ -1,0 +1,10 @@
+﻿  BankGDI.cpp
+C:\Users\hp\source\repos\BankGDI\BankGDI.cpp(234,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hp\source\repos\BankGDI\BankGDI.cpp(244,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hp\source\repos\BankGDI\BankGDI.cpp(254,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hp\source\repos\BankGDI\BankGDI.cpp(264,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hp\source\repos\BankGDI\BankGDI.cpp(439,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hp\source\repos\BankGDI\BankGDI.cpp(484,11): warning C4101: 'dwWaitResult': unreferenced local variable
+C:\Users\hp\source\repos\BankGDI\BankGDI.cpp(629,13): warning C4101: 'point': unreferenced local variable
+C:\Users\hp\source\repos\BankGDI\BankGDI.cpp(628,15): warning C4101: 'pt': unreferenced local variable
+  BankGDI.vcxproj -> C:\Users\hp\source\repos\BankGDI\Debug\BankGDI.exe
